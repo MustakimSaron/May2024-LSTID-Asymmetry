@@ -66,7 +66,7 @@ The pipeline fetches 1-minute solar wind/interplanetary magnetic field (IMF) par
 
 The raw observation grids and pre-computed driver tables are permanently archived on Zenodo:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.YOUR_ZENODO_ID.svg)](https://doi.org/10.5281/zenodo.YOUR_ZENODO_ID)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22550051.svg)](https://doi.org/10.5281/10.5281/zenodo.22550051)
 
 * `gps240509g.002.hdf5`: World-wide GNSS vTEC grid (May 9, 2024 — quiet reference day).
 * `gps240510g.003.hdf5`: World-wide GNSS vTEC grid (May 10, 2024 — shock arrival & primary wave packet).
