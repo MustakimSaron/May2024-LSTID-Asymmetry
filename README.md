@@ -66,7 +66,7 @@ The pipeline fetches 1-minute solar wind/interplanetary magnetic field (IMF) par
 
 The raw observation grids and pre-computed driver tables are permanently archived on Zenodo:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22550051.svg)](https://doi.org/10.5281/10.5281/zenodo.22550051)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22550051.svg)](https://doi.org/10.5281/zenodo.22550051)
 
 * `gps240509g.002.hdf5`: World-wide GNSS vTEC grid (May 9, 2024 — quiet reference day).
 * `gps240510g.003.hdf5`: World-wide GNSS vTEC grid (May 10, 2024 — shock arrival & primary wave packet).
@@ -83,7 +83,7 @@ Click the badge below to open the notebook directly in your browser:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MustakimSaron/May2024-LSTID-Asymmetry/blob/main/May2024_LSTID_Analysis.ipynb)
 
-*Note:* When executing the GNSS processing cells in Colab, ensure the HDF5 data files from the [Zenodo repository](https://doi.org/10.5281/zenodo.YOUR_ZENODO_ID) are uploaded to your Colab session runtime directory (`/content/`).
+*Note:* When executing the GNSS processing cells in Colab, ensure the HDF5 data files from the [Zenodo repository](https://doi.org/10.5281/zenodo.22550051) are uploaded to your Colab session runtime directory (`/content/`).
 
 ### Option 2: Run Locally
 Clone the repository and install requirements:
