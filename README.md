@@ -2,7 +2,7 @@
 
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MustakimSaron/May2024-LSTID-Asymmetry/blob/main/May2024_LSTID_Analysis(1).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MustakimSaron/May2024-LSTID-Asymmetry/blob/main/May2024_LSTID_Analysis_(2).ipynb)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22550051.svg)](https://doi.org/10.5281/zenodo.22550051)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
